@@ -7,14 +7,10 @@
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** currently pursuing my Master's in Computer Software Engineering at Northeastern University. I love building scalable applications, automating processes, and exploring cloud technologies.
 
 ## 🔭 Currently Working On
-- Improving problem-solving and algorithms skills by practicing on platforms like LeetCode
-- Building cloud-native applications with DevOps practices
+- Contributing to open source projects in the Fedora community.
+- Improving Problem Solving Skills by practicing on platforms like leetcode
 - Exploring microservices architecture and containerization technologies
-
-## 🌱 Currently Learning
-- System Design fundamentals and distributed systems concepts
-- Kubernetes for container orchestration and deployment automation
-- GraphQL for efficient API development and data fetching
+  
 
 ## 💻 Tech Stack
 
